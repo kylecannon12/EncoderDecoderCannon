@@ -1,3 +1,4 @@
+
 def encoder(password):
     encoded = ""
     for i in str(password):
